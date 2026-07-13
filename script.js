@@ -537,7 +537,7 @@ function openViewer(screen){
             <p style="font-family:'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;">x</p>
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_de_Olimpia_2022_PNG_HD.png" height="30px"  alt="Olimpia">
         </div>
-        <p class="qtd-palpites">0 palpite</p>
+        <p class="qtd-palpites">13 palpites</p>
     </div> 
 </div>
         `
