@@ -920,6 +920,20 @@ function openViewer(screen){
         <p>16. A premiação do bolão será paga por parte dos administradores do grupo, sendo a responsabilidade da organização do bolão o ADM ~dudu e, pela organização dos prêmios, o dono do grupo, ~Jucelino Andrade.</p>
         <p>17. O primeiro, segundo e terceiro lugar receberão prêmio em dinheiro pagos por PIX ao resultado final do ranking no último bolão do ano de 2026.</p>
         <p>18. Para que seja válido o recebimento do prêmio, é necessário, ao mínimo, estar presente no grupo no último bolão do ano.</p>
+                 <h2>Reações</h2>
+         <p>19. As reações servem para indicar se o palpite foi anotado ou não.</p>
+         <p>20. As reações são:</p>
+         <ol type="a">
+            <li>📝: caneta e papel, pra indicar que o palpite foi anotado</li>
+            <li>⚠️: advertência, se já houver algum palpite no nome do membro ou se o palpite ficou com alguma informação incompleta</li>
+            <li>🔎: lupa, pra quando estiver procurando algum palpite no nome do membro</li>
+            <li>❌: x vermelho, se o palpite não for contado</li>
+            <li>🚫: círculo barrado, caso o membro esteja suspenso ou banido do bolão</li>
+            <li>🕒: relógio, caso o palpite tenha sido enviado após o fechamento do bolão (indica que o palpite não foi contado)</li>
+         </ol>
+         <h2>Menção</h2>
+         <p>21. É importante mencionar o ADM responsável pelo bolão (~dudu) ao mandar o palpite para que o palpite não esteja vagando pelo grupo, sem ser anotado.</p>
+         <p>22. Em caso de palpite não anotado por falta de menção ao ADM responsável pelo bolão (~dudu), mesmo com provas, o palpite não será validado.</p>
             </div>
     </div>
         `
