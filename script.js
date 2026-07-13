@@ -515,6 +515,15 @@ function openViewer(screen){
         </div>
         <p class="qtd-palpites">44 palpites</p>
     </div> 
+    <div class="bolao-his" onclick="bolao('flamengo-vs-olimpia')">
+        <p class="data">17/07/2026, 20:00</p>
+        <div class="brasoes">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Clube_de_Regatas_do_Flamengo_logo.svg/500px-Clube_de_Regatas_do_Flamengo_logo.svg.png" height="30px" alt="Flamengo">
+            <p style="font-family:'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;">x</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_de_Olimpia_2022_PNG_HD.png" height="30px"  alt="Olimpia">
+        </div>
+        <p class="qtd-palpites">0 palpite</p>
+    </div> 
 </div>
         `
     }else if(screen == 'winners'){
