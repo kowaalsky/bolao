@@ -63,6 +63,11 @@ function openViewer(screen){
             <td>3688556229</td>
         </tr>
         <tr>
+            <td class="blur">+55 82 9672-3785</td>
+            <td>Afonso Venancio</td>
+            <td>2620818657</td>
+        </tr>
+        <tr>
             <td class="blur">+55 24 99272-8686</td>
             <td>Alan Jonatas</td>
             <td>7212539014</td>
@@ -151,6 +156,11 @@ function openViewer(screen){
             <td class="blur">+55 21 98299-8323</td>
             <td>Edeson Oliveira</td>
             <td>8403789536</td>
+        </tr>
+        <tr>
+            <td class="blur">+55 94 8150-7810</td>
+            <td>Edmilson Brasil</td>
+            <td>3736910688</td>
         </tr>
         <tr>
             <td class="blur">+1 443 735-4573</td>
@@ -376,6 +386,11 @@ function openViewer(screen){
             <td class="blur">+55 19 99268-7282</td>
             <td>Renan Ferreira</td>
             <td>7852008723</td>
+        </tr>
+        <tr>
+            <td class="blur">+55 21 99225-8400</td>
+            <td>Renato Ferreira</td>
+            <td>6209865812</td>
         </tr>
         <tr>
             <td class="blur">+55 21 96826-8080</td>
