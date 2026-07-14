@@ -108,6 +108,11 @@ function openViewer(screen){
             <td>6490667742</td>
         </tr>
         <tr>
+            <td class="blur">+55 62 8579-7178</td>
+            <td>Carlos Pereira</td>
+            <td>1992991028</td>
+        </tr>
+        <tr>
             <td class="blur">+55 21 99269-7088</td>
             <td>Cláudia Rosa</td>
             <td>3220905641</td>
@@ -171,6 +176,11 @@ function openViewer(screen){
             <td class="blur">+55 82 98898-0223</td>
             <td>Eduardo Kowalsky</td>
             <td>8564462620</td>
+        </tr>
+        <tr>
+            <td class="blur">+55 98 9136-5763</td>
+            <td>Eduardo Veiga</td>
+            <td>3752950030</td>
         </tr>
         <tr>
             <td class="blur">+55 98 8147-0443</td>
@@ -537,7 +547,7 @@ function openViewer(screen){
             <p style="font-family:'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;">x</p>
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_de_Olimpia_2022_PNG_HD.png" height="30px"  alt="Olimpia">
         </div>
-        <p class="qtd-palpites">13 palpites</p>
+        <p class="qtd-palpites">30 palpites</p>
     </div> 
 </div>
         `
